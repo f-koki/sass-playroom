@@ -6,9 +6,9 @@ const App: React.FC = () => {
   return (
     <div className="App">
       {/* TODO: You can change from here */}
-      <div className="box-1"></div>
-      <div className="box-2"></div>
-      <div className="box-3"></div>
+      <header className="header"></header>
+      <div className="main"></div>
+      <footer className="footer"></footer>
       {/* You can change to here */}
     </div>
   );

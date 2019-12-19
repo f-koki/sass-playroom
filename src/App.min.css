@@ -1,1 +1,1 @@
-.App{font-size:large}.App .box-1{height:100px;width:100px;background-color:red}.App .box-2{height:100px;width:100px;background-color:blue}.App .box-3{height:100px;width:100px;background-color:green}
+.App{position:relative;min-height:900px}.App .header{height:100px;background-color:red}.App .main{height:100px;background-color:blue}.App .footer{display:block;margin-top:auto;height:100px;background-color:green}

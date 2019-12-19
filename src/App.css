@@ -1,21 +1,21 @@
 .App {
-  font-size: large;
+  position: relative;
+  min-height: 900px;
 }
 
-.App .box-1 {
+.App .header {
   height: 100px;
-  width: 100px;
   background-color: red;
 }
 
-.App .box-2 {
+.App .main {
   height: 100px;
-  width: 100px;
   background-color: blue;
 }
 
-.App .box-3 {
+.App .footer {
+  display: block;
+  margin-top: auto;
   height: 100px;
-  width: 100px;
   background-color: green;
 }
